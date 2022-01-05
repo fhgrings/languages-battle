@@ -10,4 +10,4 @@ Programming Languages Perfomance Comparisons
 * Python3
 * NodeJS
 
-![](./primes/result.mp4)
+![](./primes/result.gif)
